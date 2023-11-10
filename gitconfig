@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rsoemardja@gmail.com
+	name = Rama Komarudin Soemardja
