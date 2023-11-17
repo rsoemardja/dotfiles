@@ -62,3 +62,5 @@
 [user]
 	email = rsoemardja@gmail.com
 	name = Rama Komarudin Soemardja
+[credential]
+	helper = cache
